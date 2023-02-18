@@ -1,0 +1,12 @@
+body{
+    background:#789;
+    font:20px Arial, sans-serif;
+    color:#333;
+}
+
+a.btn{
+    text-decoration:none;
+    color:#fff;
+    background:#456;
+    padding:7px 15px;
+}
